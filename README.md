@@ -18,7 +18,7 @@ Para empezar, se requiere un fragmento de código en Python que permita simular 
 
 En esta sección repasará y pondrá en práctica de nuevo las sentencias condicionales del lenguaje de programación Python. 
 
-1. Codifique un programa que solicite el nombre del jugador y a continuación permita el lanzamiento de los dos dados, si el jugador obtiene "presadas", se debe mostrar en pantalla el mensaje "Felicitaciones <nombre> Puedes sacar una ficha", de lo contrario se debe mostar el mensaje "Turno del siguiente jugador". En este caso <nombre> es el nombre que fue introducido por el jugador.
+1. Codifique un programa que solicite el nombre del jugador y a continuación permita el lanzamiento de los dos dados, si el jugador obtiene "presadas", se debe mostrar en pantalla el mensaje "Felicitaciones {nombre} Puedes sacar una ficha", de lo contrario se debe mostar el mensaje "Turno del siguiente jugador". En este caso {nombre} es el nombre que fue introducido por el jugador.
 2.	Ejecute el programa y verifique que funciona correctamente.
 3.	Ahora use la herramienta IA para generar el código del punto 1, verifique el correcto funcionamiento del programa generado y compare con la implementación realizada por usted.
 
