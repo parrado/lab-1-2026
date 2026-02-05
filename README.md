@@ -36,7 +36,7 @@ En esta sección se considerarán las sentencias para ciclos y el uso de arreglo
 
 Para terminar, en esta sección pondrá en práctica la creación de funciones en el lenguaje de programación Python. Recuerde que las funciones son construcciones que permiten crear código modular, escalable y de mayor legibilidad.
 
-1. Cree una función que reciba como argumento un número entre 1 y 12, el cual representa un valor requerido en los dos dados.  La función debe realizar lanzamientos consecutivos hasta obtener una combinación en los dados correspondiente al número del argumento, posteriormente la función debe retornar la cantidad de lanzamientos que requirió para obenter el valor solicitado.
+1. Cree una función que reciba como argumento un número entre 2 y 12, el cual representa un valor requerido en los dos dados.  La función debe realizar lanzamientos consecutivos hasta obtener una combinación en los dados correspondiente al número del argumento, posteriormente la función debe retornar la cantidad de lanzamientos que requirió para obenter el valor solicitado.
 
 
 ## Entrega del laboratorio
